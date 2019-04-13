@@ -1,0 +1,12 @@
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Program 1B.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Program 1B.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Program1B (submission)\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Program1B (submission)\Prog1A-Updated\Prog1A\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Program1B (submission)\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Program 1B.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Program1B (submission)\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Program 1B.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Program1B (submission)\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\Nick\Documents\University Of Louisville\Fall 2018\CIS 200-01\Program1B (submission)\Prog1A-Updated\Prog1A\Prog1A\obj\x86\Debug\Prog1.pdb
